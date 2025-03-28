@@ -1,0 +1,14 @@
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\bin\Debug\net9.0\ExpressionTree.exe
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\bin\Debug\net9.0\ExpressionTree.deps.json
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\bin\Debug\net9.0\ExpressionTree.runtimeconfig.json
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\bin\Debug\net9.0\ExpressionTree.dll
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\bin\Debug\net9.0\ExpressionTree.pdb
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ExpressionTree.AssemblyInfoInputs.cache
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ExpressionTree.AssemblyInfo.cs
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ExpressionTree.csproj.CoreCompileInputs.cache
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ExpressionTree.dll
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\refint\ExpressionTree.dll
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ExpressionTree.pdb
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ExpressionTree.genruntimeconfig.cache
+C:\Users\hieud\Documents\code\C#\dotNet\ExpressionTree\obj\Debug\net9.0\ref\ExpressionTree.dll

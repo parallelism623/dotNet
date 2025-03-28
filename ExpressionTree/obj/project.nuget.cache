@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrk3QqMyGOA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hieud\\Documents\\code\\C#\\dotNet\\ExpressionTree\\ExpressionTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hieud\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
